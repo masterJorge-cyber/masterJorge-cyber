@@ -32,17 +32,3 @@
 - Git & GitHub 🐙
 
 ---
-
-## 📂 Repository Contents
-
-| Section         | Description                                      |
-|-----------------|--------------------------------------------------|
-| `scripts/`      | Automation scripts for Oracle Retail systems     |
-| `ml_models/`    | Machine Learning experiments and models          |
-| `notebooks/`    | Data analysis & visualization notebooks          |
-| `utils/`        | Helpers for data cleaning and ETL processes      |
-
----
-
-## 🎨 Let’s Make it Visual!
-
