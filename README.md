@@ -32,3 +32,8 @@
 - Git & GitHub 🐙
 
 ---
+
+      Automate like Franky 🤖
+      Learn like Robin 📚
+      Think like Luffy 🧠
+
